@@ -1,4 +1,4 @@
-# Delegate Code Challenge 2019 - /
+# Delegate Code Challenge 2019
 <img align="right" src="https://delegate.dk/media/26491/logo_transparent_200px_72dpi.png">
 Welcome to Delegate's new code challenge. This year we decided to build a code-challenge that mimics what we work with and how we work.  
 
